@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Лабораторная работа N3 (Задание 19)", "Лабораторная работа N3 (Задание 19)\Лабораторная работа N3 (Задание 19).vcxproj", "{C05B798C-FFD5-4663-8C80-073C1E986E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05B798C-FFD5-4663-8C80-073C1E986E8C}.Debug|x64.ActiveCfg = Debug|x64
+		{C05B798C-FFD5-4663-8C80-073C1E986E8C}.Debug|x64.Build.0 = Debug|x64
+		{C05B798C-FFD5-4663-8C80-073C1E986E8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C05B798C-FFD5-4663-8C80-073C1E986E8C}.Debug|x86.Build.0 = Debug|Win32
+		{C05B798C-FFD5-4663-8C80-073C1E986E8C}.Release|x64.ActiveCfg = Release|x64
+		{C05B798C-FFD5-4663-8C80-073C1E986E8C}.Release|x64.Build.0 = Release|x64
+		{C05B798C-FFD5-4663-8C80-073C1E986E8C}.Release|x86.ActiveCfg = Release|Win32
+		{C05B798C-FFD5-4663-8C80-073C1E986E8C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {500F02EB-EC8A-4860-A8E4-BDE85D28AE60}
+	EndGlobalSection
+EndGlobal
